@@ -2,7 +2,7 @@
 CNN_FunBar is a user-friendly web application developed at Division of Agricultural Bioinformatics, ICAR-Indian Agricultural Statistics Research Institute, New Delhi. CNN models have been developed here for the classification of fungi ITS sequences at six taxonomic levels, i.e., phylum, class, order, family, genus and species. The user can run this application locally useing following steps:
 1. Install PyCharm IDE in local system
 2. Install following python packages: 
-numpy
+   numpy
 pandas, os, keras, tensorflow, scikit-learn, matplotlib, h5py and flask
 3. Clone the CNN_FunBar_ITS GitHub repository in the local system or download the entire application as a Zip file
 4. Set the path of PyCharm python project as "CNN_FunBar_ITS-main"
